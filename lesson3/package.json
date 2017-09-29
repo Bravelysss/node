@@ -1,0 +1,16 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "爬虫",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "senhong.ssh",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "superagent": "^3.6.0"
+  }
+}
